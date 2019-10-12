@@ -42,9 +42,17 @@
       "frameworks": {
         "monoandroid90": {
           "dependencies": {
+            "Plugin.FacebookClient": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
             "Xamarin.Android.Support.Core.Utils": {
               "target": "Package",
               "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Auth": {
+              "target": "Package",
+              "version": "[1.7.0, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

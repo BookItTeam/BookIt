@@ -6,11 +6,25 @@
              mc:Ignorable="d"
              x:Class="BookIt.MainPage">
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+    <ContentPage.Content>
 
+        <Grid >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+
+            </Grid.RowDefinitions>
+            <Label Text="BookIt" Grid.Row="0"  BackgroundColor="#36FF65" FontSize="50" FontAttributes="Bold" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" />
+            <StackLayout Grid.Row="1" >
+
+                <Entry Placeholder="Username" HorizontalTextAlignment="Center"/>
+                <Entry Placeholder="Password" IsPassword="True" HorizontalTextAlignment="Center"/>
+                <Button  Text="Authenticate"  />
+               
+                <Label Text="Or" HorizontalTextAlignment="Center" FontSize="20"/>
+                <Button  Text="Sign Up"  />
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
 </ContentPage>

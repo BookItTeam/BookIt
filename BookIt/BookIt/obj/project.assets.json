@@ -562,11 +562,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\boyan\\Source\\Repos\\BookItTeam\\BookIt\\BookIt\\BookIt\\BookIt.csproj",
+      "projectUniqueName": "C:\\Users\\boyan\\source\\repos\\BookItTeam\\BookIt\\BookIt\\BookIt\\BookIt.csproj",
       "projectName": "BookIt",
-      "projectPath": "C:\\Users\\boyan\\Source\\Repos\\BookItTeam\\BookIt\\BookIt\\BookIt\\BookIt.csproj",
+      "projectPath": "C:\\Users\\boyan\\source\\repos\\BookItTeam\\BookIt\\BookIt\\BookIt\\BookIt.csproj",
       "packagesPath": "C:\\Users\\boyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\boyan\\Source\\Repos\\BookItTeam\\BookIt\\BookIt\\BookIt\\obj\\",
+      "outputPath": "C:\\Users\\boyan\\source\\repos\\BookItTeam\\BookIt\\BookIt\\BookIt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,0 +1,13 @@
+C:\Users\boyan\source\repos\BookItTeam\BookIt\BookIt\BookIt\bin\Debug\netstandard2.0\BookIt.deps.json
+C:\Users\boyan\source\repos\BookItTeam\BookIt\BookIt\BookIt\bin\Debug\netstandard2.0\BookIt.dll
+C:\Users\boyan\source\repos\BookItTeam\BookIt\BookIt\BookIt\bin\Debug\netstandard2.0\ref\BookIt.dll
+C:\Users\boyan\source\repos\BookItTeam\BookIt\BookIt\BookIt\bin\Debug\netstandard2.0\BookIt.pdb
+C:\Users\boyan\source\repos\BookItTeam\BookIt\BookIt\BookIt\obj\Debug\netstandard2.0\BookIt.csprojAssemblyReference.cache
+C:\Users\boyan\source\repos\BookItTeam\BookIt\BookIt\BookIt\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\boyan\source\repos\BookItTeam\BookIt\BookIt\BookIt\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\boyan\source\repos\BookItTeam\BookIt\BookIt\BookIt\obj\Debug\netstandard2.0\BookIt.AssemblyInfoInputs.cache
+C:\Users\boyan\source\repos\BookItTeam\BookIt\BookIt\BookIt\obj\Debug\netstandard2.0\BookIt.AssemblyInfo.cs
+C:\Users\boyan\source\repos\BookItTeam\BookIt\BookIt\BookIt\obj\Debug\netstandard2.0\BookIt.dll
+C:\Users\boyan\source\repos\BookItTeam\BookIt\BookIt\BookIt\obj\Debug\netstandard2.0\ref\BookIt.dll
+C:\Users\boyan\source\repos\BookItTeam\BookIt\BookIt\BookIt\obj\Debug\netstandard2.0\BookIt.pdb
+C:\Users\boyan\source\repos\BookItTeam\BookIt\BookIt\BookIt\obj\Debug\netstandard2.0\XamlC.stamp
